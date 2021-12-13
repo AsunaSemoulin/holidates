@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const { getCode, getName } = require('country-list');
 const axios = require("axios");
 

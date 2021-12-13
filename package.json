@@ -1,5 +1,5 @@
 {
-  "name": "holidates",
+  "name": "@asunamarie/holidates",
   "version": "1.0.0",
   "description": "It will get you the holidays from a country",
   "main": "index.js",
